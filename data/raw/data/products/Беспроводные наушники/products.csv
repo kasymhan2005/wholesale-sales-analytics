@@ -1,0 +1,140 @@
+id,name,price
+26,"Anker, Soundcore Liberty Neo",35.92
+27,"Anker, Soundcore Life Q10",33.82
+28,"Anker, Soundcore Liberty 2 Pro",126.79
+29,"Anker, Soundcore Liberty Air",72.11
+30,"Anker, Soundcore Liberty Air 2",86.96
+31,"Anker, Soundcore Life Dot 2",42.7
+32,"Anker, Soundcore Life P2",41.52
+80,"Bose, SoundSport Free",172.87
+219,"Denon, AH-C160W",122.23
+220,"Denon, AH-GC30",340.07
+221,"Denon, AH-GC25W",170.54
+263,"Edifier, HECATE GM5",270.45
+264,"Edifier, TWS NB",97.54
+265,"Edifier, TWS NB-GREY",98.7
+266,"Edifier, TWS NB2",80.5
+267,"Edifier, TWS1",36.13
+268,"Edifier, TWS1 Pro",70.7
+269,"Edifier, TWS1 Pro-GREY",70.89
+270,"Edifier, TWS5-PLUS",97.83
+271,"Edifier, TWS6",80.54
+272,"Edifier, W200BT-PURPLE",50.68
+273,"Edifier, W296BT",67.69
+274,"Edifier, W800BT",56.89
+275,"Edifier, W800BT-WHITE",60.13
+276,"Edifier, W820NB",73.42
+277,"Edifier, W820NB-RED",77.13
+278,"Edifier, W830BT",83.12
+279,"Edifier, W860NB",132.04
+280,"Edifier, W860NB-BLACK",123.67
+281,"Edifier, X3",35.55
+282,"Edifier, X5",43.78
+283,"Edifier, X6",62.84
+378,"Harman Kardon, FLY BT",212.66
+379,"Harman Kardon, FLY TWS",129.98
+380,"Harman Kardon, FLY BT+",348.45
+381,"Harman Kardon, BT",89.41
+382,"Harman Kardon, FLY ANC",209.7
+383,"Harman Kardon, Fly ANC",249.19
+384,"Harman Kardon, Fly BT",174.1
+385,"Harman Kardon, Fly TWS",130.51
+457,"Heco, Liberty 50",69.29
+458,"Heco, Liberty 200",96.42
+559,"JBL, Endurance Peak II",87.92
+560,"JBL, Live 400BT",89.15
+561,"JBL, Tune 120TWS",69.67
+562,"JBL, Tune 220TWS",88.73
+563,"JBL, Tune 500BT",43.15
+564,"JBL, Tune 510BT",45.38
+565,"JBL, Club 950NC",199.56
+566,"JBL, Club Pro+ TWS",178.09
+567,"JBL, E55BT",122.25
+568,"JBL, Free X",65.03
+569,"JBL, Live 650BTNC",178.47
+570,"JBL, Reflect Mini NC",126.9
+571,"JBL, Tune 125TWS",84.14
+572,"JBL, Tune 225TWS",88.66
+657,"Jabra, Elite 65t",105.66
+658,"Jabra, Elite 75t",153.92
+673,"KEF, KStream",130.35
+674,"KEF, Porsche Design Motion One Black",425.56
+675,"KEF, Porsche Design Motion One Champagne",440.27
+676,"KEF, Porsche Design Motion One Gold",410.0
+677,"KEF, Porsche Design Motion One Silver",425.16
+678,"KEF, Porsche Design Motion One Titanium",435.76
+679,"KEF, Porsche Design Space One Titanium",581.16
+680,"KEF, Porsche Design Space One Wireless",410.09
+681,"KEF, Porsche Design Space One Wireless Black",704.48
+682,"KEF, Porsche Design Space One Wireless Champagne",656.88
+683,"KEF, Porsche Design Space One Wireless Gold",656.74
+684,"KEF, Porsche Design Space One Wireless Silver",688.62
+685,"KEF, Porsche Design Space One Wireless Titanium",656.51
+686,"KEF, Mu3",170.39
+687,"KEF, Mu3 Gloss White",222.81
+688,"KEF, Mu3 Titanium Grey",220.8
+689,"KEF, Porsche Design Motion One",225.57
+690,"KEF, Porsche Design Motion One Sport",290.91
+691,"KEF, Porsche Design Motion Six",258.59
+692,"KEF, Porsche Design Motion Six Sport",324.55
+693,"KEF, Space One Wireless",336.09
+758,"Klipsch, T5 II True Wireless",172.87
+759,"Klipsch, T5 II True Wireless Sport",199.85
+859,"Magnat, LZR 588 BT",133.55
+860,"Magnat, LZR 588 BT Pro",141.24
+974,"Marshall, MID A.N.C.",238.21
+975,"Marshall, Major III",122.37
+976,"Marshall, Major III Voice",147.9
+977,"Marshall, Major IV",121.63
+978,"Marshall, Mode II",153.5
+979,"Marshall, Monitor II ANC",268.85
+1039,"Onkyo, H500BT",164.51
+1101,"Pioneer, SE-C8TW",81.73
+1102,"Pioneer, SE-MJ553BT",89.94
+1103,"Pioneer, SE-C7BT",65.67
+1104,"Pioneer, SE-CL5BT",52.65
+1105,"Pioneer, SE-E7BT",132.78
+1106,"Pioneer, SE-E8TW",121.82
+1107,"Pioneer, SE-MS7BT",167.58
+1108,"Pioneer, SE-S6BN",98.89
+1319,"Sennheiser, CX 100",31.57
+1320,"Sennheiser, CX 150BT",44.06
+1321,"Sennheiser, CX 300S",43.37
+1322,"Sennheiser, CX 350BT",64.0
+1323,"Sennheiser, Momentum True Wireless",245.81
+1324,"Sennheiser, CX 400BT True Wireless",164.42
+1325,"Sennheiser, HD 350",112.97
+1326,"Sennheiser, HD 350BT",103.31
+1327,"Sennheiser, HD 350BTNC",175.23
+1328,"Sennheiser, HD 4.40 BT",84.87
+1329,"Sennheiser, HD 4.40BT",80.96
+1330,"Sennheiser, HD 4.50 BTNC",131.36
+1331,"Sennheiser, HD 4.50BTNC",129.89
+1332,"Sennheiser, HD 400S BT",83.71
+1333,"Sennheiser, HD 450BT",129.99
+1334,"Sennheiser, HD 450BTNC",143.84
+1414,"Skullcandy, Dime True Wireless",23.38
+1415,"Skullcandy, Push",88.15
+1416,"Skullcandy, Indy Fuel",82.25
+1417,"Skullcandy, Sesh Evo",54.81
+1438,"Sony, WF-XB700",70.54
+1439,"Sony, WF-1000XM3",168.42
+1440,"Sony, WF-1000XM4",249.64
+1441,"Sony, WF-SP700N",90.98
+1442,"Sony, WF-SP800N",125.45
+1466,"SoundPEATS, TrueFree+",25.05
+1467,"SoundPEATS, TrueAir2",34.76
+1468,"SoundPEATS, TrueAir2+",41.27
+1469,"SoundPEATS, TrueFree2",25.17
+1477,"TOZO, T6",35.94
+1480,"TaoTronics, SoundLiberty 79",42.0
+1481,"TaoTronics, SoundLiberty 53",49.86
+1482,"TaoTronics, SoundLiberty 80",52.25
+1483,"TaoTronics, SoundLiberty 94",54.61
+1590,"Yamaha, EPH-W32",68.82
+1591,"Yamaha, TW-E3A",128.48
+1592,"Yamaha, YH-L700A",425.72
+1593,"Yamaha, HPH-MT8",267.38
+1594,"Yamaha, TW-E5A",170.3
+1595,"Yamaha, YH-E500A",222.75
+1596,"Yamaha, YH-E700A",304.02
