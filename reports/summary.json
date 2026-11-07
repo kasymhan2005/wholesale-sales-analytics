@@ -1,0 +1,21 @@
+{
+  "lines": 4603,
+  "orders": 346,
+  "products": 1677,
+  "confirmed_orders": 309,
+  "canceled_orders": 37,
+  "cancel_rate": 0.1069364161849711,
+  "revenue": 2038231821.5648642,
+  "average_order_value": 6596219.487264931,
+  "sold_products": 1180,
+  "unsold_products": 497,
+  "active_clients": 74,
+  "top5_client_share": 0.15563925013122784,
+  "exact_next_day_pairs": 16,
+  "ambiguous_pairs": 0,
+  "matched_confirmed_value": 115285027.44828099,
+  "leading_brand": "JBL",
+  "leading_manager": "Маргарита Камертонова",
+  "source_csv_files": 382,
+  "mean_usd_rate": 91.69706451612903
+}

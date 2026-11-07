@@ -1,0 +1,147 @@
+brand,products,sold_products,unsold_products,unsold_share
+Arcam,2,0,2,1.0
+Adam Audio,1,0,1,1.0
+Music Hall,1,0,1,1.0
+Musical Fidelity,1,0,1,1.0
+Neewer,1,0,1,1.0
+Plantronics,1,0,1,1.0
+Genelec,1,0,1,1.0
+M-Audio,1,0,1,1.0
+Line Magnetic,1,0,1,1.0
+Leben,1,0,1,1.0
+Dayton Audio,1,0,1,1.0
+Feliks Audio,1,0,1,1.0
+Eve Audio,1,0,1,1.0
+FX AUDIO,1,0,1,1.0
+Clearaudio,1,0,1,1.0
+Crosley,1,0,1,1.0
+Cyber Acoustics,1,0,1,1.0
+Cary Audio,1,0,1,1.0
+TOZO,1,0,1,1.0
+PrimaLuna,3,0,3,1.0
+Schiit Audio,2,0,2,1.0
+Reisong,1,0,1,1.0
+Yaqin,1,0,1,1.0
+YAQIN,1,0,1,1.0
+Unison Research,1,0,1,1.0
+Marantz,22,3,19,0.8636363636363636
+Dali,67,18,49,0.7313432835820896
+Bowers & Wilkins,10,3,7,0.7
+Pioneer,103,33,70,0.6796116504854369
+Singing Machine,3,1,2,0.6666666666666666
+Karaoke USA,3,1,2,0.6666666666666666
+Cambridge Audio,6,2,4,0.6666666666666666
+Sonos,6,2,4,0.6666666666666666
+KEF,82,28,54,0.6585365853658537
+Samsung,8,3,5,0.625
+Revel,5,2,3,0.6
+Definitive Technology,5,2,3,0.6
+Dynaudio,5,2,3,0.6
+Beyerdynamic,5,2,3,0.6
+Emotiva,7,3,4,0.5714285714285714
+NAD,7,3,4,0.5714285714285714
+AKG,11,5,6,0.5454545454545454
+Lexicon,2,1,1,0.5
+Neumann,2,1,1,0.5
+Rega,4,2,2,0.5
+JVC,2,1,1,0.5
+MXL,2,1,1,0.5
+Fosi Audio,2,1,1,0.5
+Panasonic,9,5,4,0.4444444444444444
+Behringer,5,3,2,0.4
+Elac,5,3,2,0.4
+Audio-Technica,14,9,5,0.35714285714285715
+Jabra,3,2,1,0.3333333333333333
+HyperX,3,2,1,0.3333333333333333
+Vizio,3,2,1,0.3333333333333333
+VocoPro,3,2,1,0.3333333333333333
+Triad,3,2,1,0.3333333333333333
+SteelSeries,3,2,1,0.3333333333333333
+KRK,3,2,1,0.3333333333333333
+Douk Audio,3,2,1,0.3333333333333333
+ASUS,3,2,1,0.3333333333333333
+Anthem,3,2,1,0.3333333333333333
+Shure,10,7,3,0.3
+Onkyo,30,21,9,0.3
+Bose,21,15,6,0.2857142857142857
+Edifier,73,53,20,0.273972602739726
+Sony,37,27,10,0.2702702702702703
+Anker,15,11,4,0.26666666666666666
+Sennheiser,76,56,20,0.2631578947368421
+Nobsound,4,3,1,0.25
+Google,4,3,1,0.25
+Mackie,4,3,1,0.25
+Corsair,4,3,1,0.25
+Audioengine,4,3,1,0.25
+Harman Kardon,80,61,19,0.2375
+Magnat,92,71,21,0.22826086956521738
+Marshall,32,25,7,0.21875
+Monitor Audio,10,8,2,0.2
+Polk Audio,10,8,2,0.2
+Philips,5,4,1,0.2
+LG,11,9,2,0.18181818181818182
+Q-Acoustics,75,62,13,0.17333333333333334
+Denon,41,34,7,0.17073170731707318
+Pyle,6,5,1,0.16666666666666666
+PreSonus,6,5,1,0.16666666666666666
+Skullcandy,7,6,1,0.14285714285714285
+Logitech,7,6,1,0.14285714285714285
+Yamaha,106,91,15,0.14150943396226415
+Wharfedale,57,50,7,0.12280701754385964
+Klipsch,72,66,6,0.08333333333333333
+Heco,91,85,6,0.06593406593406594
+JBL,115,108,7,0.06086956521739131
+Audix,1,1,0,0.0
+AudioSource,1,1,0,0.0
+Amazon,4,4,0,0.0
+Apple,1,1,0,0.0
+ART,1,1,0,0.0
+Bang & Olufsen,1,1,0,0.0
+Blue,3,3,0,0.0
+Bravo Audio,1,1,0,0.0
+Canton,4,4,0,0.0
+BoyuuRange,1,1,0,0.0
+Bryston,1,1,0,0.0
+ION Audio,3,3,0,0.0
+Koss,1,1,0,0.0
+Cayin,1,1,0,0.0
+DarkVoice,1,1,0,0.0
+Crown,1,1,0,0.0
+Creative,1,1,0,0.0
+Electro-Voice,3,3,0,0.0
+Electrohome,2,2,0,0.0
+Fifine,1,1,0,0.0
+Fluance,2,2,0,0.0
+Focal,6,6,0,0.0
+Microsoft,1,1,0,0.0
+Micca,1,1,0,0.0
+Little Dot,1,1,0,0.0
+MAONO,1,1,0,0.0
+KaraoKing,1,1,0,0.0
+Sharp,1,1,0,0.0
+Parasound,3,3,0,0.0
+Paradigm,2,2,0,0.0
+Mpow,1,1,0,0.0
+Rode,6,6,0,0.0
+Rotel,4,4,0,0.0
+SMSL,1,1,0,0.0
+Pro-Ject,4,4,0,0.0
+Razer,3,3,0,0.0
+Singtrix,3,3,0,0.0
+Singsation,2,2,0,0.0
+Technics,1,1,0,0.0
+TaoTronics,4,4,0,0.0
+Tannoy,2,2,0,0.0
+TONOR,3,3,0,0.0
+SoundPEATS,4,4,0,0.0
+TCL,1,1,0,0.0
+Sonance,1,1,0,0.0
+Sonus Faber,1,1,0,0.0
+Ultimate Ears,4,4,0,0.0
+U-Turn Audio,1,1,0,0.0
+Turtle Beach,1,1,0,0.0
+Tribit,4,4,0,0.0
+Thorens,1,1,0,0.0
+Triangle,2,2,0,0.0
+Victrola,1,1,0,0.0
+Xiaomi,4,4,0,0.0

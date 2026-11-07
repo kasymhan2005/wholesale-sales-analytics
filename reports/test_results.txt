@@ -1,0 +1,4 @@
+Python unittest: 7 tests passed.
+Notebook: 9 code cells executed without errors.
+Plots: both PNG charts visually inspected.
+Dashboard: JavaScript logic tested in Node with a minimal DOM adapter. Full browser rendering not verified.

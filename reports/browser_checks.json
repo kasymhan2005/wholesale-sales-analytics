@@ -1,0 +1,14 @@
+{
+  "status": "logic_passed_visual_browser_unavailable",
+  "checks": [
+    "JavaScript executed in Node VM with minimal DOM adapter",
+    "baseline metrics",
+    "brand/manager/category filters",
+    "empty selection",
+    "reset",
+    "CSV download handler"
+  ],
+  "limitations": [
+    "Chromium was not available; browser download failed. Full browser rendering, native download and mobile layout have not been verified."
+  ]
+}

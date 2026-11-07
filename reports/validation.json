@@ -1,0 +1,19 @@
+{
+  "status": "passed",
+  "checks": [
+    "schemas",
+    "required values",
+    "unique dimension keys",
+    "unique order/product lines",
+    "valid statuses",
+    "positive prices and integer quantities",
+    "foreign keys",
+    "consistent order dates/managers",
+    "unique positive daily exchange rates",
+    "rate coverage",
+    "row-preserving many-to-one joins"
+  ],
+  "python": "3.12.14",
+  "pandas": "2.2.3",
+  "matplotlib": "3.10.8"
+}
